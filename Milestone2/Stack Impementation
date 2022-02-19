@@ -70,10 +70,11 @@ int main() {
          case 4:{
              int x=peek();
              cout<<x;
+             break;
          }
          case 5:{
              cout<<isEmpty();
-
+             break;
          }
          case 6: {
             cout<<"Exit"<<endl;
